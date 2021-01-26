@@ -1,0 +1,22 @@
+{
+  "name": "fea-docs",
+  "version": "0.0.1",
+  "description": "write document",
+  "main": "index.js",
+  "authors": {
+    "name": "Kira",
+    "email": "trongki07@gmail.com"
+  },
+  "repository": "/fea-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-auto-sidebar": "^1.1.1"
+  }
+}

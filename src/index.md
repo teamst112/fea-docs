@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: http://portal.feavn.com.vn/ITS/images/2.jpg
-tagline: Những con cá vàng trong tủ lạnh
+tagline: Những con cá vàng trong tủ lạnh!
 actionText: Tại liệu huấn luyện →
 actionLink: /guide/
 # features:
